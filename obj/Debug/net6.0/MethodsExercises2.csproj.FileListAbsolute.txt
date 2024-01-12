@@ -26,3 +26,4 @@ C:\Users\jojop\OneDrive\Desktop\REPOS\MethodsExercise\MethodsExercises2\obj\Debu
 C:\Users\jojop\OneDrive\Desktop\REPOS\MethodsExercise\MethodsExercises2\obj\Debug\net6.0\MethodsExercises2.pdb
 C:\Users\jojop\OneDrive\Desktop\REPOS\MethodsExercise\MethodsExercises2\obj\Debug\net6.0\MethodsExercises2.genruntimeconfig.cache
 C:\Users\jojop\OneDrive\Desktop\REPOS\MethodsExercise\MethodsExercises2\obj\Debug\net6.0\ref\MethodsExercises2.dll
+C:\Users\jojop\OneDrive\Desktop\REPOS\MethodsExercises2\obj\Debug\net6.0\MethodsExercises2.sourcelink.json

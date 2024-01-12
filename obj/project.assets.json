@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jojop\\OneDrive\\Desktop\\REPOS\\MethodsExercise\\MethodsExercises2\\MethodsExercises2.csproj",
+      "projectUniqueName": "C:\\Users\\jojop\\OneDrive\\Desktop\\REPOS\\MethodsExercises2\\MethodsExercises2.csproj",
       "projectName": "MethodsExercises2",
-      "projectPath": "C:\\Users\\jojop\\OneDrive\\Desktop\\REPOS\\MethodsExercise\\MethodsExercises2\\MethodsExercises2.csproj",
+      "projectPath": "C:\\Users\\jojop\\OneDrive\\Desktop\\REPOS\\MethodsExercises2\\MethodsExercises2.csproj",
       "packagesPath": "C:\\Users\\jojop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jojop\\OneDrive\\Desktop\\REPOS\\MethodsExercise\\MethodsExercises2\\obj\\",
+      "outputPath": "C:\\Users\\jojop\\OneDrive\\Desktop\\REPOS\\MethodsExercises2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jojop\\AppData\\Roaming\\NuGet\\NuGet.Config",
