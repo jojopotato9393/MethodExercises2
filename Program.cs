@@ -6,17 +6,17 @@
         {
 
 
-            var result = divide(9, 3);
-            var result2 = multiply(9, 3);
+            var result = Divide(9, 3);
+            var result2 = Multiply(9, 3);
 
             Console.WriteLine("to divide enter two numbers");
             int answer = Convert.ToInt32(Console.ReadLine()); // i feel like there is a lot more simple way to do this but yea
             int answer1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine();
-            Console.WriteLine($" you wana divide {answer} by {answer1}");
+            Console.WriteLine($"you want divide {answer} by {answer1}");
             Console.WriteLine();
-            Console.WriteLine(divide(answer, answer1));
-            Console.WriteLine("is your answer");
+            int solution = Divide(answer, answer1);
+            Console.WriteLine($"your answer is {solution}");
 
             Console.WriteLine();
 
@@ -24,20 +24,20 @@
             int calculation = Convert.ToInt32(Console.ReadLine());
             int calculation1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine();
-            Console.WriteLine($" you want to multiply {calculation} by {calculation1}");
+            Console.WriteLine($"you want to multiply {calculation} by {calculation1}");
             Console.WriteLine();
-            Console.WriteLine(multiply(calculation, calculation1));
-            Console.WriteLine("is your answer");
+            int solution1 = Multiply(calculation, calculation1);
+            Console.WriteLine($"you answer is {solution1}");
 
 
 
         }
-        public static int divide(int x, int y)
+        public static int Divide(int x, int y)
         {
 
             return x / y;
         }
-        public static int multiply(int x, int y)
+        public static int Multiply(int x, int y)
         {
             return (x * y);
         }
